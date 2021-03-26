@@ -92,7 +92,7 @@ int main(int agrc, char *argv[])
     
      // print first 20 element of B and indexes
       for(int i=0;i<20;++i){
-        cout<<"B["<<i<<"]"<<B[i]<<endl;		
+        cout<<"B["<<i<<"] "<<B[i]<<endl;		
 	}
      cout<<"B ended"<<endl;
      cout<<""<<endl;
