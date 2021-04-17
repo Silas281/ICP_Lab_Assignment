@@ -1,0 +1,23 @@
+[main] g++ 1000 (0) exception: trapped!
+[main] g++ 1000 (0) exception: code 0xC0000005 at 0x6105AEBD
+[main] g++ 1000 (0) exception: ax 0xA035008 bx 0xA034FF8 cx 0x61061104 dx 0x676972F1
+[main] g++ 1000 (0) exception: si 0x2 di 0x61062698 bp 0x241F874 sp 0x241F848
+[main] g++ 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] g++ 1000 (0) stack: Stack trace:
+[main] g++ 1000 (1) stack: frame 0: sp = 0x241F1D8, pc = 0x6100A2C3
+[main] g++ 1000 (0) stack: frame 1: sp = 0x241F214, pc = 0x77099F62
+[main] g++ 1000 (0) stack: frame 2: sp = 0x241F238, pc = 0x77099F34
+[main] g++ 1000 (0) stack: frame 3: sp = 0x241F300, pc = 0x770853C6
+[main] g++ 1000 (0) stack: frame 4: sp = 0x241F874, pc = 0x6101A516
+[main] g++ 1000 (0) stack: frame 5: sp = 0x241F888, pc = 0x40D511
+[main] g++ 1000 (0) stack: frame 6: sp = 0x241F898, pc = 0x40D619
+[main] g++ 1000 (0) stack: frame 7: sp = 0x241F8B0, pc = 0x4054D9
+[main] g++ 1000 (0) stack: frame 8: sp = 0x241F8DC, pc = 0x40578D
+[main] g++ 1000 (0) stack: frame 9: sp = 0x241FDE0, pc = 0x407798
+[main] g++ 1000 (0) stack: frame 10: sp = 0x241FE70, pc = 0x40C3CA
+[main] g++ 1000 (0) stack: frame 11: sp = 0x241FEE0, pc = 0x61004402
+[main] g++ 1000 (0) stack: frame 12: sp = 0x241FF38, pc = 0x61004420
+[main] g++ 1000 (0) stack: frame 13: sp = 0x241FF44, pc = 0x41022E
+[main] g++ 1000 (0) stack: frame 14: sp = 0x241FF54, pc = 0x40103A
+[main] g++ 1000 (0) stack: frame 15: sp = 0x241FF70, pc = 0x76026359
+[main] g++ 1000 (0) stack: End of stack trace (more stack frames may be present)
